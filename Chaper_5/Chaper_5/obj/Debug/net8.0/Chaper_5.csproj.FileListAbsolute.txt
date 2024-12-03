@@ -1,0 +1,14 @@
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.AssemblyInfo.cs
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.csproj.CoreCompileInputs.cache
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\bin\Debug\net8.0\Chaper_5.exe
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\bin\Debug\net8.0\Chaper_5.deps.json
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\bin\Debug\net8.0\Chaper_5.runtimeconfig.json
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\bin\Debug\net8.0\Chaper_5.dll
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\bin\Debug\net8.0\Chaper_5.pdb
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.dll
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\refint\Chaper_5.dll
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.pdb
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\Chaper_5.genruntimeconfig.cache
+D:\CareerPath\Algorithm\Chaper_5\Chaper_5\obj\Debug\net8.0\ref\Chaper_5.dll

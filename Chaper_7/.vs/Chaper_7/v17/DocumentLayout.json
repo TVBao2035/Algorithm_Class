@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm\\Chaper_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|d:\\careerpath\\algorithm\\chaper_7\\chaper_7\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|solutionrelative:chaper_7\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|d:\\careerpath\\algorithm\\chaper_7\\chaper_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|solutionrelative:chaper_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|d:\\careerpath\\algorithm\\chaper_7\\chaper_7\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|solutionrelative:chaper_7\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|d:\\careerpath\\algorithm\\chaper_7\\chaper_7\\hashtable_rehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E04761-D288-44FC-A77A-C4028BABCA9A}|Chaper_7\\Chaper_7.csproj|solutionrelative:chaper_7\\hashtable_rehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Chaper_7\\Dictionary.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Dictionary.cs",
+              "RelativeToolTip": "Chaper_7\\Dictionary.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:00:24.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashTable_Rehash.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\HashTable_Rehash.cs",
+              "RelativeDocumentMoniker": "Chaper_7\\HashTable_Rehash.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\HashTable_Rehash.cs",
+              "RelativeToolTip": "Chaper_7\\HashTable_Rehash.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:04:13.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Element.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Element.cs",
+              "RelativeDocumentMoniker": "Chaper_7\\Element.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Element.cs",
+              "RelativeToolTip": "Chaper_7\\Element.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:01:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Program.cs",
+              "RelativeDocumentMoniker": "Chaper_7\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Chaper_7\\Chaper_7\\Program.cs",
+              "RelativeToolTip": "Chaper_7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:01:09.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

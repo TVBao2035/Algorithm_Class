@@ -1,0 +1,4 @@
+D:\CareerPath\Algorithm\Chaper_2\Chaper_2\obj\Release\net8.0\Chaper_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm\Chaper_2\Chaper_2\obj\Release\net8.0\Chaper_2.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm\Chaper_2\Chaper_2\obj\Release\net8.0\Chaper_2.AssemblyInfo.cs
+D:\CareerPath\Algorithm\Chaper_2\Chaper_2\obj\Release\net8.0\Chaper_2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\CareerPath\Algorithm\Exercise\ex_2\bin\Debug\net8.0\ex_2.exe
+D:\CareerPath\Algorithm\Exercise\ex_2\bin\Debug\net8.0\ex_2.deps.json
+D:\CareerPath\Algorithm\Exercise\ex_2\bin\Debug\net8.0\ex_2.runtimeconfig.json
+D:\CareerPath\Algorithm\Exercise\ex_2\bin\Debug\net8.0\ex_2.dll
+D:\CareerPath\Algorithm\Exercise\ex_2\bin\Debug\net8.0\ex_2.pdb
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.AssemblyInfo.cs
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.csproj.CoreCompileInputs.cache
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.dll
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\refint\ex_2.dll
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.pdb
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ex_2.genruntimeconfig.cache
+D:\CareerPath\Algorithm\Exercise\ex_2\obj\Debug\net8.0\ref\ex_2.dll

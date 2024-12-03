@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E305918B-F101-4262-BD44-7EE05D276C6B}|..\\ex_2\\ex_2.csproj|d:\\careerpath\\algorithm\\exercise\\ex_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305918B-F101-4262-BD44-7EE05D276C6B}|..\\ex_2\\ex_2.csproj|d:\\careerpath\\algorithm\\exercise\\ex_2\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\search\\binsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\search\\binsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305918B-F101-4262-BD44-7EE05D276C6B}|..\\ex_2\\ex_2.csproj|d:\\careerpath\\algorithm\\exercise\\ex_2\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305918B-F101-4262-BD44-7EE05D276C6B}|..\\ex_2\\ex_2.csproj|d:\\careerpath\\algorithm\\exercise\\ex_2\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\ex_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\ex_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\helper\\studenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\helper\\studenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\object\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\object\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|d:\\careerpath\\algorithm\\exercise\\ex_1\\ex_1\\sort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82BBD8C-D4AB-4806-8384-F5A8DA0A939F}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\sort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "..\\ex_2\\BinarySearch.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\BinarySearch.cs",
+              "RelativeToolTip": "..\\ex_2\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:41:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex_1",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\ex_1.csproj",
+              "RelativeDocumentMoniker": "ex_1\\ex_1.csproj",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\ex_1.csproj",
+              "RelativeToolTip": "ex_1\\ex_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T12:14:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Sort.cs",
+              "RelativeDocumentMoniker": "..\\ex_2\\Sort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Sort.cs",
+              "RelativeToolTip": "..\\ex_2\\Sort.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:33:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\ex_2\\Helper.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Helper.cs",
+              "RelativeToolTip": "..\\ex_2\\Helper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:28:29.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex_2\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_2\\Program.cs",
+              "RelativeToolTip": "..\\ex_2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:27:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinSearch.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Search\\BinSearch.cs",
+              "RelativeDocumentMoniker": "ex_1\\Search\\BinSearch.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Search\\BinSearch.cs",
+              "RelativeToolTip": "ex_1\\Search\\BinSearch.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:43:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Sort\\QuickSort.cs",
+              "RelativeDocumentMoniker": "ex_1\\Sort\\QuickSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Sort\\QuickSort.cs",
+              "RelativeToolTip": "ex_1\\Sort\\QuickSort.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:25:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Sort\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "ex_1\\Sort\\BubbleSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Sort\\BubbleSort.cs",
+              "RelativeToolTip": "ex_1\\Sort\\BubbleSort.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:18:53.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentHelper.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Helper\\StudentHelper.cs",
+              "RelativeDocumentMoniker": "ex_1\\Helper\\StudentHelper.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Helper\\StudentHelper.cs",
+              "RelativeToolTip": "ex_1\\Helper\\StudentHelper.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:12:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Object\\SinhVien.cs",
+              "RelativeDocumentMoniker": "ex_1\\Object\\SinhVien.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Object\\SinhVien.cs",
+              "RelativeToolTip": "ex_1\\Object\\SinhVien.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:03:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Program.cs",
+              "RelativeDocumentMoniker": "ex_1\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\Exercise\\ex_1\\ex_1\\Program.cs",
+              "RelativeToolTip": "ex_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:03:08.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

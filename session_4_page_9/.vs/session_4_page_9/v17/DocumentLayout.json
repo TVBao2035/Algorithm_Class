@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm\\session_4_page_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C095C9EE-F46D-40D5-B21E-D01A0F7CFDF4}|session_4_page_9\\session_4_page_9.csproj|d:\\careerpath\\algorithm\\session_4_page_9\\session_4_page_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095C9EE-F46D-40D5-B21E-D01A0F7CFDF4}|session_4_page_9\\session_4_page_9.csproj|solutionrelative:session_4_page_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095C9EE-F46D-40D5-B21E-D01A0F7CFDF4}|session_4_page_9\\session_4_page_9.csproj|d:\\careerpath\\algorithm\\session_4_page_9\\session_4_page_9\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095C9EE-F46D-40D5-B21E-D01A0F7CFDF4}|session_4_page_9\\session_4_page_9.csproj|solutionrelative:session_4_page_9\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\session_4_page_9\\session_4_page_9\\SinhVien.cs",
+              "RelativeDocumentMoniker": "session_4_page_9\\SinhVien.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\session_4_page_9\\session_4_page_9\\SinhVien.cs",
+              "RelativeToolTip": "session_4_page_9\\SinhVien.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:00:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm\\session_4_page_9\\session_4_page_9\\Program.cs",
+              "RelativeDocumentMoniker": "session_4_page_9\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm\\session_4_page_9\\session_4_page_9\\Program.cs",
+              "RelativeToolTip": "session_4_page_9\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T03:59:07.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\bin\Debug\net8.0\session_1_page_8.exe
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\bin\Debug\net8.0\session_1_page_8.deps.json
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\bin\Debug\net8.0\session_1_page_8.runtimeconfig.json
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\bin\Debug\net8.0\session_1_page_8.dll
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\bin\Debug\net8.0\session_1_page_8.pdb
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.AssemblyInfo.cs
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.csproj.CoreCompileInputs.cache
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.dll
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\refint\session_1_page_8.dll
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.pdb
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\session_1_page_8.genruntimeconfig.cache
+D:\CareerPath\Algorithm\session_1_page_8\session_1_page_8\obj\Debug\net8.0\ref\session_1_page_8.dll

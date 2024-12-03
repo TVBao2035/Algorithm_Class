@@ -1,0 +1,14 @@
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\bin\Debug\net8.0\Chaper_4.exe
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\bin\Debug\net8.0\Chaper_4.deps.json
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\bin\Debug\net8.0\Chaper_4.runtimeconfig.json
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\bin\Debug\net8.0\Chaper_4.dll
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\bin\Debug\net8.0\Chaper_4.pdb
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.AssemblyInfo.cs
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.csproj.CoreCompileInputs.cache
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.dll
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\refint\Chaper_4.dll
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.pdb
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\Chaper_4.genruntimeconfig.cache
+D:\CareerPath\Algorithm\Chaper_4\Chaper_4\Chaper_4\obj\Debug\net8.0\ref\Chaper_4.dll

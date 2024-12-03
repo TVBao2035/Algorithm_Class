@@ -1,0 +1,17 @@
+cat#mèo
+dog#chó
+fish#ca
+bank#bờ sông
+bank#ngân hàng
+dog#tu
+computer#máy tính
+computer#Máy Vi Tính
+computer#Máy móc
+WhoIsTheDog#Ngô Gia T?
+WhoIsTheAnimal#GiaTuj
+bank#Chuy?n Kho?n
+bank#Đám
+bank#Kh?i
+bank#C?c
+bank#B?y
+stealth mode#tr?ng thái ?n danh
