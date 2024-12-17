@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|d:\\careerpath\\algorithm_class\\exercise\\ex_3\\ex_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|solutionrelative:ex_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|d:\\careerpath\\algorithm_class\\exercise\\ex_3\\ex_3\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|solutionrelative:ex_3\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|d:\\careerpath\\algorithm_class\\exercise\\ex_3\\ex_3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|solutionrelative:ex_3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|d:\\careerpath\\algorithm_class\\exercise\\ex_3\\ex_3\\ex_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{228C3BDE-8443-49CC-8490-4AA5DA658905}|ex_3\\ex_3.csproj|solutionrelative:ex_3\\ex_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex_3",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\ex_3.csproj",
+              "RelativeDocumentMoniker": "ex_3\\ex_3.csproj",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\ex_3.csproj",
+              "RelativeToolTip": "ex_3\\ex_3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T01:36:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkList.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\LinkList.cs",
+              "RelativeDocumentMoniker": "ex_3\\LinkList.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\LinkList.cs",
+              "RelativeToolTip": "ex_3\\LinkList.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:38:40.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\Node.cs",
+              "RelativeDocumentMoniker": "ex_3\\Node.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\Node.cs",
+              "RelativeToolTip": "ex_3\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:36:47.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\Program.cs",
+              "RelativeDocumentMoniker": "ex_3\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Exercise\\ex_3\\ex_3\\Program.cs",
+              "RelativeToolTip": "ex_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:36:22.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

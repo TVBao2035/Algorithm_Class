@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau3\\cau3main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau3\\cau3main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau4\\cau4main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau4\\cau4main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau4\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau4\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau2\\cau2main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau2\\cau2main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tvbao\\AppData\\Local\\Temp\\.vsdbgsrc\\a94b20844f4175df6db4e469cb21e195725f5c7fbe1129585e955e0c842f207d\\Cau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau2\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau2\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau1\\cau1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau1\\cau1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|d:\\careerpath\\algorithm_class\\consoleapp8\\consoleapp8\\cau2\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C25B18-3C42-492F-B401-FE168632EB2A}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\cau2\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cau4Main.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\Cau4Main.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau4\\Cau4Main.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\Cau4Main.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau4\\Cau4Main.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:52:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\Node.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau2\\Node.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\Node.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau2\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:33:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cau2Main.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\Cau2Main.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau2\\Cau2Main.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\Cau2Main.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau2\\Cau2Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:33:19.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:57:37.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau4\\BinarySearchTree.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\BinarySearchTree.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau4\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:56:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau3\\NhanVien.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau3\\NhanVien.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau3\\NhanVien.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau3\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:51:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau3Main.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau3\\Cau3Main.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau3\\Cau3Main.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau3\\Cau3Main.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau3\\Cau3Main.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:50:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\LinkedList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau2\\LinkedList.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau2\\LinkedList.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau2\\LinkedList.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:34:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\Node.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau4\\Node.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau4\\Node.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau4\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:54:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cau2.cs",
+              "DocumentMoniker": "C:\\Users\\tvbao\\AppData\\Local\\Temp\\.vsdbgsrc\\a94b20844f4175df6db4e469cb21e195725f5c7fbe1129585e955e0c842f207d\\Cau2.cs",
+              "ToolTip": "C:\\Users\\tvbao\\AppData\\Local\\Temp\\.vsdbgsrc\\a94b20844f4175df6db4e469cb21e195725f5c7fbe1129585e955e0c842f207d\\Cau2.cs [Read Only]",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:07:04.185Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cau1Main.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau1\\Cau1Main.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Cau1\\Cau1Main.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\ConsoleApp8\\ConsoleApp8\\Cau1\\Cau1Main.cs",
+              "RelativeToolTip": "ConsoleApp8\\Cau1\\Cau1Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:03:39.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

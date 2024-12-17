@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chaper_7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d53114c22eea21945c0bb8b98f2db56dc80a2b07")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chaper_7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chaper_7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

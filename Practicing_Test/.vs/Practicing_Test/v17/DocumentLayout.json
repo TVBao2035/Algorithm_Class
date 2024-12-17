@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\main\\sorting_exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\main\\sorting_exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\sorting_algorithm\\heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\sorting_algorithm\\heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\sorting_algorithm\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\sorting_algorithm\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\sorting_algorithm\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\sorting_algorithm\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\sorting_algorithm\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\sorting_algorithm\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\sorting_algorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\sorting_algorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|d:\\careerpath\\algorithm_class\\practicing_test\\practicing_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AEE02-2E22-4F32-B8DB-44BE84D44290}|Practicing_Test\\Practicing_Test.csproj|solutionrelative:practicing_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeapSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\HeapSort.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Sorting_Algorithm\\HeapSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\HeapSort.cs",
+              "RelativeToolTip": "Practicing_Test\\Sorting_Algorithm\\HeapSort.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:19:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Sorting_Algorithm\\BubbleSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\BubbleSort.cs",
+              "RelativeToolTip": "Practicing_Test\\Sorting_Algorithm\\BubbleSort.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:39:16.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Sorting_Algorithm\\QuickSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\QuickSort.cs",
+              "RelativeToolTip": "Practicing_Test\\Sorting_Algorithm\\QuickSort.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:26:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Sorting_Algorithm\\InsertionSort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\InsertionSort.cs",
+              "RelativeToolTip": "Practicing_Test\\Sorting_Algorithm\\InsertionSort.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:15:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorting_Exercises.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Main\\Sorting_Exercises.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Main\\Sorting_Exercises.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Main\\Sorting_Exercises.cs",
+              "RelativeToolTip": "Practicing_Test\\Main\\Sorting_Exercises.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:09:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Helpers.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Helpers.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Helpers.cs",
+              "RelativeToolTip": "Practicing_Test\\Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:05:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\Sort.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Sorting_Algorithm\\Sort.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Sorting_Algorithm\\Sort.cs",
+              "RelativeToolTip": "Practicing_Test\\Sorting_Algorithm\\Sort.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:05:29.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Practicing_Test\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Practicing_Test\\Practicing_Test\\Program.cs",
+              "RelativeToolTip": "Practicing_Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:04:32.363Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

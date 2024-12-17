@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|d:\\careerpath\\algorithm_class\\chaper_6\\chaper_6\\main\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|solutionrelative:chaper_6\\main\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|d:\\careerpath\\algorithm_class\\chaper_6\\chaper_6\\main\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|solutionrelative:chaper_6\\main\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|d:\\careerpath\\algorithm_class\\chaper_6\\chaper_6\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|solutionrelative:chaper_6\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|d:\\careerpath\\algorithm_class\\chaper_6\\chaper_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|solutionrelative:chaper_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|d:\\careerpath\\algorithm_class\\chaper_6\\chaper_6\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871A1969-7557-41BF-A99E-A5E91126A03F}|Chaper_6\\Chaper_6.csproj|solutionrelative:chaper_6\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Main\\Helper.cs",
+              "RelativeDocumentMoniker": "Chaper_6\\Main\\Helper.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Main\\Helper.cs",
+              "RelativeToolTip": "Chaper_6\\Main\\Helper.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAYwKYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:13:55.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Main\\App.cs",
+              "RelativeDocumentMoniker": "Chaper_6\\Main\\App.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Main\\App.cs",
+              "RelativeToolTip": "Chaper_6\\Main\\App.cs",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAYwGwBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:33:55.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "Chaper_6\\BinarySearchTree.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\BinarySearchTree.cs",
+              "RelativeToolTip": "Chaper_6\\BinarySearchTree.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAYwLkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:50:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Node.cs",
+              "RelativeDocumentMoniker": "Chaper_6\\Node.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Node.cs",
+              "RelativeToolTip": "Chaper_6\\Node.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:46:15.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Program.cs",
+              "RelativeDocumentMoniker": "Chaper_6\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Algorithm_Class\\Chaper_6\\Chaper_6\\Program.cs",
+              "RelativeToolTip": "Chaper_6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:45:30.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
